@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "62B98A07-3EAE-4B08-8C0C-F15D370A78CD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1F1AF68-4A32-4807-BB10-417EE510ED6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "641"
+            endingLineNumber = "641"
+            landmarkName = "keyAssign(endpoints:torusNodePubs:verifier:verifierId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE14ECE2-9348-4E19-B965-DE36263D4DC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "639"
+            endingLineNumber = "639"
+            landmarkName = "keyAssign(endpoints:torusNodePubs:verifier:verifierId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5DC9859-A516-4C4A-90D8-03339014ED64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "637"
+            endingLineNumber = "637"
+            landmarkName = "keyAssign(endpoints:torusNodePubs:verifier:verifierId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5DC9859-A516-4C4A-90D8-03339014ED64 - 3fba29addcc5687b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TorusUtils.TorusUtils.keyAssign(endpoints: Swift.Array&lt;Swift.String&gt;, torusNodePubs: Swift.Array&lt;FetchNodeDetails.TorusNodePub&gt;, verifier: Swift.String, verifierId: Swift.String) -&gt; PromiseKit.Promise&lt;TorusUtils.JSONRPCresponse&gt;"
+                  moduleName = "TestProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagar/Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "637"
+                  endingLineNumber = "637"
+                  offsetFromSymbolStart = "3097">
+               </Location>
+               <Location
+                  uuid = "A5DC9859-A516-4C4A-90D8-03339014ED64 - aef03261910a596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; PromiseKit.Promise&lt;(data: Foundation.Data, response: __C.NSURLResponse)&gt; in closure #1 () -&gt; () in TorusUtils.TorusUtils.keyAssign(endpoints: Swift.Array&lt;Swift.String&gt;, torusNodePubs: Swift.Array&lt;FetchNodeDetails.TorusNodePub&gt;, verifier: Swift.String, verifierId: Swift.String) -&gt; PromiseKit.Promise&lt;TorusUtils.JSONRPCresponse&gt;"
+                  moduleName = "TestProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagar/Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "638"
+                  endingLineNumber = "638"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C72DC45C-D52E-4B91-9B13-0D233EAE7C7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "671"
+            endingLineNumber = "671"
+            landmarkName = "keyAssign(endpoints:torusNodePubs:verifier:verifierId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3AFCE95-B07F-4709-A50F-22060E92C1F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/TestProject-gdeaxjirjsdhvigabuwvrfvnumsg/SourcePackages/checkouts/torus-utils-swift/Sources/TorusUtils/Extensions/TorusUtils+extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "661"
+            endingLineNumber = "661"
+            landmarkName = "keyAssign(endpoints:torusNodePubs:verifier:verifierId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
